@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.dc2ce9ed.css","mappings":"AAAA,EAGE,qBAAsB,CAFtB,QAAS,CACT,SAEF,CAEA,MACE,SAAU,CAEV,WAAY,CACZ,iBAAkB,CAFlB,UAGF","sources":["index.css"],"sourcesContent":["* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\ninput {\n  all: unset;\n  width: 100%;\n  height: 100%;\n  position: absolute;\n}\n"],"names":[],"sourceRoot":""}
