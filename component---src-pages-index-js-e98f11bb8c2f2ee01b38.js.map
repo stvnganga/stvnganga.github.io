@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-index-js-e98f11bb8c2f2ee01b38.js","mappings":"4KAGe,SAASA,IACtB,OAAO,kCACR,C","sources":["webpack://input-fields/./src/pages/index.js"],"sourcesContent":["import React from \"react\";\nimport \"./styles.css\";\n\nexport default function Index() {\n  return <div>Home</div>;\n}\n"],"names":["Index"],"sourceRoot":""}
