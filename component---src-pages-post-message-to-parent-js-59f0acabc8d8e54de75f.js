@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkinput_fields=self.webpackChunkinput_fields||[]).push([[679],{6705:function(e,n,i){function t(e){return void 0===e&&(e={}),postMessage(JSON.stringify(e),new URLSearchParams(location.search).get("origin"))}i.r(n),i.d(n,{default:function(){return t}})}}]);
-//# sourceMappingURL=component---src-pages-post-message-to-parent-js-59f0acabc8d8e54de75f.js.map
